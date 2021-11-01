@@ -47,7 +47,7 @@ php artisan key:generate
 # laravel migrate & seed some data
 php artisan migrate:fresh --seed
 # link storage
- php artisan link:storage
+php artisan link:storage
 ```
 
 ### Default User
